@@ -7,7 +7,7 @@ public class TestCase {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented ");
+		fail("Not yet implemented 1 ");
 	}
 
 }
